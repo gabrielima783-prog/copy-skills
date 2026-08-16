@@ -8,7 +8,7 @@ timestamp="$(date +%Y%m%d-%H%M%S)"
 
 mkdir -p "$target_dir"
 
-for skill in schwartz-copy estrutura-invisivel funil-brunson; do
+for skill in schwartz-copy estrutura-invisivel funil-brunson engenharia-de-criativos; do
   source_path="$repo_dir/skills/$skill"
   target_path="$target_dir/$skill"
 

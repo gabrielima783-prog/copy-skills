@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engenharia de Criativos"
+  short_description: "Transcreve, desmonta e adapta criativos"
+  default_prompt: "Use $engenharia-de-criativos para transcrever, analisar a estrutura e adaptar este criativo."
